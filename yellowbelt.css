@@ -1,0 +1,138 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.wrapper {
+	width: 1000px;
+	min-height: 1250px;
+	background-color: black;
+}
+
+.header {
+	color: white; 
+	padding: 20px 10px;
+}
+
+	.header p {
+		display: inline-block;
+		vertical-align: top;
+		height: 57px;
+		width: 740px;
+		font-size: 18px;
+		text-align: right;
+		padding: 10px 10px 0px 0px;
+	}
+
+.main {
+	color: white;
+}
+
+	.main ul {
+		display: inline-block;
+		vertical-align: top;
+		background-color: grey;
+		width: 976px;
+	}
+
+	.main ul li {
+		display: inline-block;
+		padding: 10px 30px;
+		font-size: 18px;
+	}
+
+.content {
+	display: inline-block;
+	width: 240px;
+	vertical-align: top;
+	margin: 40px 0px;
+	padding: 0px 0px 0px 25px;
+}
+
+	.content h1 {
+		color: orange;
+		display: inline-block;
+		vertical-align: top;
+		font-size: 24px;
+	}
+
+	.content p {
+		color: white;
+	}
+
+
+.buy {
+	display: inline-block;
+	color: white;
+}
+
+	.buy h1 {
+		text-align: left;
+		display: inline-block;
+		width: 620px;
+		font-size: 28px;
+		padding: 5px 10px 5px 30px;
+	}
+
+	.buy p {
+		text-align: left;
+		display: inline-block;
+		width: 620px;
+		padding: 5px 155px 5px 30px;
+	}
+
+	.buy button {
+  	background-color: orange;
+  	vertical-align: top;
+  	color: white;
+  	padding: 12px 35px;
+  	text-align: center;
+  	display: inline-block;
+  	font-size: 16px;
+	}
+
+.bottom {
+		padding: 50px 15px;
+		color: orange;
+		display: inline-block;
+}
+
+	.bottom h1 {
+		font-size: 22px;
+		color: white;
+		display: inline-block;
+		padding: 0px 740px 0px 0px;
+	}
+
+	.bottom p {
+		font-size: 16px;
+		display: inline-block;
+	}
+
+.portfolio {
+	display: inline-block;
+	width: 210px;
+	vertical-align: top;
+	padding: 0px 17px;
+}
+
+	.portfolio h1 {
+		color: orange;
+		display: inline-block;
+		vertical-align: top;
+		font-size: 24px;
+		padding: 10px 10px;
+	}
+
+	.portfolio p {
+		color: white;
+	}
+
+
+.footer {
+	color: grey;
+	font-size: 16px;
+	vertical-align: bottom;
+	text-align: right;
+	padding: 20px;
+}
